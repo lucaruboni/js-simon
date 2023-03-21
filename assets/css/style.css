@@ -1,0 +1,14 @@
+.number_style{
+    font-size: 3rem;
+    border: 1px solid green;
+    padding: 1rem;
+    border-radius: 20px;
+}
+
+#number_container{
+    align-self: center;
+    border: 1px solid;
+    box-shadow: 0 0 10px grey;
+    padding: 2rem;
+    border-radius: 20px;
+}
